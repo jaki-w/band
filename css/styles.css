@@ -1,0 +1,27 @@
+.important {
+  text-align: center;
+  border: 2px solid #D5D2CF;
+  background-color: #D5D2CF;
+  margin: 4px;
+  padding: 4px;
+  color: #F57A07;
+}
+
+img {
+  float: left;
+  padding: 10px;
+}
+
+.sidebar{
+  width:30%;
+  float: right;
+  padding: 10px;
+  margin: 10px;
+  background-color: #F57A07;
+  text-align: left;
+}
+
+text{
+  color: #F57A07;
+  text-align: justify;
+}
